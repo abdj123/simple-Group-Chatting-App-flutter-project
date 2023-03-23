@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719840989860",
+    "project_id": "flutter-chat-app-a551b",
+    "storage_bucket": "flutter-chat-app-a551b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719840989860:android:ee85a13bb20684d9e18c31",
+        "android_client_info": {
+          "package_name": "com.abeselom.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719840989860-9rcdaqhv04bp24f6jbp8ec8hjvb9nvss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxk4daUDinUEUYbrefEKyUaz4IJHEIaIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719840989860-9rcdaqhv04bp24f6jbp8ec8hjvb9nvss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
